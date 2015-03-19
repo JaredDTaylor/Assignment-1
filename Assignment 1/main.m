@@ -12,6 +12,7 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
         NSLog(@"Hello, Jared!");
+        NSLog(@"This is a test");
     }
     return 0;
 }
