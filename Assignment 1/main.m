@@ -13,6 +13,7 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, Jared!");
         NSLog(@"This is a test");
+        NSLog(@"Shamrock shakes");
     }
     return 0;
 }
